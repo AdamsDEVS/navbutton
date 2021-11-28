@@ -1,9 +1,9 @@
       <nav>
-        <button id="test" onClick="javascript:window.open('https://splife.fr/forums/index.php', '_blank');">Button 1</button>
-        <button id="test" onClick="javascript:window.open('https://discord.gg/HRsgBQp3JB', '_blank');" target="_blank">Button 2</button>
-        <button id="boutique" onClick="javascript:window.open('https://boutique.splife.fr', '_blank');"> Button 3</button>
-        <button id="test" onClick="javascript:window.open('https://steamcommunity.com/sharedfiles/filedetails/?id=2190229711', '_blank');">Button 4</button>
-        <button id="test" onClick="javascript:window.open('https://splife.fr/', '_blank');">Button 5</button>   
+        <button id="test" onClick="javascript:window.open('https://yourlink.com', '_blank');">Button 1</button>
+        <button id="test" onClick="javascript:window.open('https://yourlink.com', '_blank');" target="_blank">Button 2</button>
+        <button id="boutique" onClick="javascript:window.open('https://yourlink.com', '_blank');"> Button 3</button>
+        <button id="test" onClick="javascript:window.open('https://yourlink.com', '_blank');">Button 4</button>
+        <button id="test" onClick="javascript:window.open('https://yourlink.com', '_blank');">Button 5</button>   
       </nav>
       
       <--  YOU CAN PLACE HERE BUTTON OR IMAGE WHAT YOU WANT HERE IT'S AN EXEMPLE OF BUTTON ON TOP MARGIN OF THE PAGE      
